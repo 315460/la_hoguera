@@ -1203,39 +1203,6 @@ a {
     left: -1rem;
   }
 }
-.cid-sOuMOM3e0J {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/textura-blanca-2000x1397.jpg");
-}
-.cid-sOuMOM3e0J [class^="socicon-"]:before,
-.cid-sOuMOM3e0J [class*=" socicon-"]:before {
-  line-height: 55px;
-}
-.cid-sOuMOM3e0J .btn-social {
-  font-size: 32px;
-  border-radius: 50%;
-  width: 55px;
-  height: 55px;
-  line-height: 55px;
-  padding: 0;
-  position: relative;
-  cursor: pointer;
-  color: #ffffff;
-  border-width: 2px;
-  transition: all .3s;
-  border-color: #ffffff;
-}
-.cid-sOuMOM3e0J .btn-social:hover {
-  background: #ffffff;
-}
-.cid-sOuMOM3e0J .btn-social:hover i.socicon {
-  color: #000000 !important;
-}
-.cid-sOuMOM3e0J .mbr-section-title,
-.cid-sOuMOM3e0J .mbr-social-likes {
-  color: #ffffff;
-}
 .cid-sOuW0dCVyQ {
   padding-top: 2rem;
   padding-bottom: 2rem;
