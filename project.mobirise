@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "lahoguera_sb",
-    "currentPage": "index.html",
+    "currentPage": "page.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1603,11 +1603,11 @@
             },
             ".mbr-text": {
               "text-align": "center",
-              "color": "#232323"
+              "color": "#191616"
             },
             ".mbr-section-title": {
               "text-align": "center",
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_name": "form3",
