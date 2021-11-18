@@ -1839,7 +1839,7 @@ a {
 .cid-sP5fVHKreb {
   padding-top: 5rem;
   padding-bottom: 4rem;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/textura-blanca-2000x1397.jpg");
 }
 .cid-sP5fVHKreb .bg-instagram {
   background: #f00075;
@@ -1869,6 +1869,15 @@ a {
 .cid-sP5fVHKreb [class*=" socicon-"]:before {
   line-height: 55px;
   padding: .6rem;
+}
+.cid-sP5fVHKreb .mbr-section-title,
+.cid-sP5fVHKreb .social-list {
+  color: #ffffff;
+}
+.cid-sP9N8m46EV {
+  padding-top: 5rem;
+  padding-bottom: 4rem;
+  background-color: #5753a1;
 }
 .cid-sOuW0dCVyQ {
   padding-top: 4rem;
@@ -2794,29 +2803,13 @@ a {
     left: -1rem;
   }
 }
-.cid-sP9ckshozc {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/textura-blanca-2000x1397.jpg");
+.cid-sP9O1mzzPP {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/textura-negra-2000x1335.jpg");
 }
-.cid-sP9ckshozc .row {
-  flex-direction: row-reverse;
-}
-.cid-sP9ckshozc .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-sP9ckshozc .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-sP9ckshozc .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-sP9ckshozc .mbr-section-title {
-  color: #ffffff;
+.cid-sP9O1mzzPP .mbr-section-title {
+  color: #5753a1;
 }
 .cid-sP8XR66845 {
   padding-top: 6rem;
@@ -2948,6 +2941,11 @@ a {
   .cid-sP9AyjWRZ5 .carousel-indicators {
     display: none !important;
   }
+}
+.cid-sP9KzrIGkX {
+  padding-top: 5rem;
+  padding-bottom: 4rem;
+  background-color: #5753a1;
 }
 .cid-sOuW0dCVyQ {
   padding-top: 4rem;
